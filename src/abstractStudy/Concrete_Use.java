@@ -9,6 +9,7 @@ public class Concrete_Use extends Abstract_Demo{
 		C.method4();
 		C.method2();
         C.method1();
+        C.method5();
 
 	}
 
@@ -21,6 +22,12 @@ public class Concrete_Use extends Abstract_Demo{
 	@Override
 	public void method4() {
 		System.out.println("This is method4 completed by concrete class");
+		
+	}
+
+	@Override
+	public void method5() {
+		System.out.println("This is method4 updated for git practice");
 		
 	}
 	

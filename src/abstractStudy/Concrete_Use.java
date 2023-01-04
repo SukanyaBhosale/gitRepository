@@ -31,6 +31,6 @@ public class Concrete_Use extends Abstract_Demo{
 		
 	}
 	
-	//this is modified
+	//this code is modified.
 }
 
